@@ -1,0 +1,7 @@
+{
+    "temperature_2m_max" : 37.0, 
+   "temperature_2m_min" : 28.6,  
+    "sunshine_duration" : 6.5,
+    "precipitation_sum" : 23, 
+    "precipitation_hours" : 17
+}
